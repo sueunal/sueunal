@@ -22,8 +22,10 @@
 
 - **요리왕**
 - 자취생 및 요리 초보들은 위한 앱
-- 2023. 10 ~ 2023 12
+- 2023 10 ~ 2023 12
 - studied Swift, SwiftUI, SwiftSoup, MVVM, Firebase, UserDefaults, Network
+
+  
 ### my Skills
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
