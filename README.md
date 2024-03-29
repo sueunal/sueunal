@@ -6,27 +6,27 @@
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueunal&show_icons=true&theme=vue)
 
 
 ### Projects
-- **REGO now**
+#### **REGO now**
 - 개인 맞춤 인공지능 드라이브 앱
 - 2024.01.18 ~ ing 
-- studied Swift, SwiftUI, MVVM, REST API, Figma, POSTMAN
+- Swift, SwiftUI, MVVM, REST API, Figma, POSTMAN
 
-- **Kuiz**
+#### **Kuiz**
 - Swift Coding Club에서 진행한 우리말 띄어쓰기 앱
 - 2023.07 ~ 2023. 10
-- studied Swift, SwiftUI, Confettie
+- Swift, SwiftUI, Confettie
 
-- **요리왕**
+### **요리왕**
 - 자취생 및 요리 초보들은 위한 앱
 - 2023 10 ~ 2023 12
-- studied Swift, SwiftUI, SwiftSoup, MVVM, Firebase, UserDefaults, Network
+- Swift, SwiftUI, SwiftSoup, MVVM, Firebase, UserDefaults, Network
 
   
-### my Skills
+### Skills
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
