@@ -12,8 +12,8 @@
 ### Projects
 #### **REGO now**
 - 개인 맞춤 인공지능 드라이브 앱
-- 2024.01.18 ~ ing 
-- Swift, SwiftUI, MVVM, REST API, Figma, POSTMAN
+- 2024.01.18 ~ 2024. 04. 22
+- SwiftUI, MVVM, JWT, 네이버 지도 API 마커 사용, FCM(Push Notification 기능 개발)
 
 #### **Kuiz**
 - Swift Coding Club에서 진행한 우리말 띄어쓰기 앱
