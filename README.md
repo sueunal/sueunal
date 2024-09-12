@@ -1,8 +1,5 @@
 # Hi there!
 
-
-
-
  
 
 
@@ -10,12 +7,23 @@
 
 
 ### Projects
-#### **REGO now**
+
+<image width="90" alt="image" src="https://github.com/user-attachments/assets/a487a630-5a63-4829-84f9-deab88d79ca6">
+
+### 최소 버전: iOS 16+
+[REGOnow](https://github.com/rego-kr)
 - 개인 맞춤 인공지능 드라이브 앱
 - 2024.01.18 ~ 2024. 04. 22
-- SwiftUI, MVVM, JWT, 네이버 지도 API 마커 사용, FCM(Push Notification 기능 개발)
+- SwiftUI, MVVM, JWT, NAVER MAP API 마커 및 경로 설정, FCM(Push Notification 기능 개발)
 
 #### **Kuiz**
+
+<image width="90" alt="image" src="https://github.com/user-attachments/assets/942a2d8c-05da-4d4a-a13c-f44d4be45285">
+
+### 최소 버전: iOS 16+
+
+ [Kuiz](https://apps.apple.com/kr/app/kuiz/id1659279011?l=en-GB)
+
 - Swift Coding Club에서 진행한 우리말 띄어쓰기 앱
 - 2023.07 ~ 2023. 10
 - Swift, SwiftUI, Confettie
