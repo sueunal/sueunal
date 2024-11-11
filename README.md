@@ -9,8 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sueunal&show_icons=true&theme=vue" width=52%, height=70% />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sueunal&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ### Projects
