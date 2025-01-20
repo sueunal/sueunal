@@ -18,9 +18,9 @@
 
 ### 최소 버전: iOS 16+
 
-- 개인 맞춤 인공지능 드라이브 앱
-- 2024.01.18 ~ 2024. 04. 22
-- SwiftUI, MVVM, JWT, NAVER MAP API 마커 및 경로 설정, FCM(Push Notification 기능 개발)
+- 주제: 개인 맞춤 인공지능 드라이브 앱
+- 기간: 2024.01.18 ~ 2024. 04. 22
+- 스킬: SwiftUI, MVVM, JWT, NAVER MAP API 마커 및 경로 설정, FCM(Push Notification 기능 개발)
 
 ### **Kuiz** 
 
@@ -31,14 +31,14 @@
 ### 최소 버전: iOS 16+
 
 
-- Swift Coding Club에서 진행한 우리말 띄어쓰기 앱
-- 2023.07 ~ 2023. 10
-- Swift, SwiftUI, Confettie
+- 주제: Swift Coding Club에서 진행한 우리말 띄어쓰기 앱
+- 기간: 2023.07 ~ 2023. 10
+- 스킬: Swift, SwiftUI, Confettie
 
 ### **요리왕**
-- 자취생 및 요리 초보들은 위한 앱
-- 2023 10 ~ 2023 12
-- Swift, SwiftUI, SwiftSoup, MVVM, Firebase, UserDefaults, Network
+- 주제: 자취생 및 요리 초보들은 위한 앱
+- 기간: 2023 10 ~ 2023 12
+- 스킬: Swift, SwiftUI, SwiftSoup, MVVM, Firebase, UserDefaults, Network
 
   
 ### Skills
