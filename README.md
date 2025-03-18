@@ -15,7 +15,15 @@ Swift와 SwiftUI로 **사용자 중심의 앱**을 만드는 것을 좋아합니
 - **Language**: Swift  
 - **Framework**: SwiftUI, Combine  
 - **Database**: SwiftData, Firebase  
-- **Networking**: Socket.io, URLSession  
+- **Networking**: Socket.io, URLSession
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueunal&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFF&icon_color=58A6FF&text_color=000&title_color=000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sueunal&show_icons=true&theme=vue" width=52%, height=70% />
+</a>
+
 
 ---
 
@@ -66,14 +74,6 @@ Swift와 SwiftUI로 **사용자 중심의 앱**을 만드는 것을 좋아합니
 - 🔎 **자기 주도적**으로 문제를 해결합니다.  
 - 🎨 **사용자 경험**을 고려한 직관적인 UI/UX를 만듭니다.  
 - 📚 새로운 기술을 **빠르게 학습**하고 **공유**하는 것을 좋아합니다.  
-
----
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueunal&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFF&icon_color=58A6FF&text_color=000&title_color=000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sueunal&show_icons=true&theme=vue" width=52%, height=70% />
-</a>
 
 ---
 
