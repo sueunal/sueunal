@@ -25,13 +25,11 @@ Swift와 SwiftUI로 **사용자 중심의 앱**을 만드는 것을 좋아합니
 ![120](https://github.com/user-attachments/assets/c1f2f77a-1864-41a8-b9f7-6746c7407726)
 ### 최소 버전: iOS 17+
 - 주제: **프로젝트 종료 후 개인 평가를 통한 프로젝트 성장 SNS 앱**
-- 기간: 2024. 12 ~ 2025. 03
+- 규모: 총 3인 (iOS 단독 개발)
+- 기간: 2024. 12 ~ 2025. 03 (3개월)
 - 스킬: SwiftUI, JWT, Soket, RxSwift, FCM(Push Notification)
 
 🔗 **[프로젝트 보기](https://github.com/sueunal/Curve)**
-
-📌 **My Role**: iOS 개발 (단독)
-📆 **Period**: 3개월  
 
 
 ✨ **Highlights**
@@ -47,13 +45,12 @@ Swift와 SwiftUI로 **사용자 중심의 앱**을 만드는 것을 좋아합니
 ### 최소 버전: iOS 16+
 
 - 주제: 개인 맞춤 인공지능 드라이브 앱
-- 기간: 2024.01.18 ~ 2024. 04. 22
+- 규모: 총 3인 (iOS 단독 개발)
+- 기간: 2024.01.18 ~ 2024. 04. 22 (3개월)
 - 스킬: SwiftUI, MVVM, JWT, NAVER MAP API 마커 및 경로 설정, FCM(Push Notification)
 
 🔗 **[프로젝트 보기](https://github.com/sueunal/regonow)**
 
-📌 **My Role**: iOS 개발 (단독)  
-📆 **Period**: 3개월  
 
 ✨ **Highlights**
 - **AI 기반 드라이브 코스 추천** (CoreML 활용)  
